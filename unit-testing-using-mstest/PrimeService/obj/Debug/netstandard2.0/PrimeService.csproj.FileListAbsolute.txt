@@ -1,0 +1,11 @@
+C:\repo\m237\vstest\unit-testing-using-mstest\PrimeService\bin\Debug\netstandard2.0\PrimeService.deps.json
+C:\repo\m237\vstest\unit-testing-using-mstest\PrimeService\bin\Debug\netstandard2.0\PrimeService.dll
+C:\repo\m237\vstest\unit-testing-using-mstest\PrimeService\bin\Debug\netstandard2.0\PrimeService.pdb
+C:\repo\m237\vstest\unit-testing-using-mstest\PrimeService\obj\Debug\netstandard2.0\PrimeService.csproj.AssemblyReference.cache
+C:\repo\m237\vstest\unit-testing-using-mstest\PrimeService\obj\Debug\netstandard2.0\PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\m237\vstest\unit-testing-using-mstest\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfoInputs.cache
+C:\repo\m237\vstest\unit-testing-using-mstest\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfo.cs
+C:\repo\m237\vstest\unit-testing-using-mstest\PrimeService\obj\Debug\netstandard2.0\PrimeService.csproj.CoreCompileInputs.cache
+C:\repo\m237\vstest\unit-testing-using-mstest\PrimeService\obj\Debug\netstandard2.0\PrimeService.sourcelink.json
+C:\repo\m237\vstest\unit-testing-using-mstest\PrimeService\obj\Debug\netstandard2.0\PrimeService.dll
+C:\repo\m237\vstest\unit-testing-using-mstest\PrimeService\obj\Debug\netstandard2.0\PrimeService.pdb

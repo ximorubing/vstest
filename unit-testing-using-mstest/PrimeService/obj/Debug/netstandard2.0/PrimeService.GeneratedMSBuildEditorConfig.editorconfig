@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = PrimeService
+build_property.ProjectDir = C:\repo\m237\vstest\unit-testing-using-mstest\PrimeService\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
